@@ -1,0 +1,30 @@
+# 内容所在的子目录，将显示在首页和归档页
+mainSections = ["post"]
+# 在 RSS 中输出全文
+rssFullContent = true
+favicon        = "img/favicon.png"
+
+# 排序方式: "default", "lastmod"
+SortBy              = "default"
+
+[footer]
+    customText = "你好，朋友"
+
+[dateFormat]
+    # 使用当地日期格式
+    published   = ":date_medium"
+    lastUpdated = ":date_medium"
+
+[sidebar]
+    emoji    = "🍥"
+    subtitle = "Stay Gold, Pony Boy!"
+    avatar   = "img/avatar.png"
+
+[article]
+    headingAnchor = true
+    math          = false
+    readingTime   = true
+
+    [article.license]
+        enabled = true
+        default = "采用 CC BY-NC-SA 4.0 许可协议"

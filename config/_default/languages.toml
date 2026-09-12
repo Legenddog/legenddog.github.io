@@ -1,0 +1,7 @@
+[zh]
+    locale            = "zh-cn"
+    label             = "中文"
+    direction         = "ltr"
+    title             = "一条狗的传说"
+    weight            = 1
+
