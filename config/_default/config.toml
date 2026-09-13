@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl      = "https://legenddog.github.io"
+baseurl      = "https://legenddog.github.io/"
 locale       = "zh-CN"   
 title        = "一条狗的传说"
 theme        = "hugo-theme-stack"  

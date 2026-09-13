@@ -1,5 +1,5 @@
 ---
-title: 从零开始Hugo建站（二）
+title: Hugo｜从零开始Hugo建站 2
 description: hugo网页配置
 date: 2023-06-15
 categories:
@@ -10,6 +10,9 @@ categories:
 
 # Hugo｜从零开始Hugo建站 2
 
+本篇是第二部分，主要讲如何用 Hugo ，从 0 到 1 完成一个静态博客：通过简单配置自定义博客界面，并把站点免费部署到 GitHub Pages。
+
+下一篇会讲hugo的配置以及使用github action布置自动推送流。
 
 
 ## hugo安装与学习
@@ -41,7 +44,6 @@ git clone git@github.com:CaiJimmy/hugo-theme-stack.git
 # 设置网站的地址  baseurl="http://legenddog.github.io"
 # 把主题目录下文件复制到根目录下 config.toml
 # 注意hugo-theme-stack需要hugo version 0.86以上
-# i18n配置 DefaultcontentLanguage ---- en
 ```
 
 ### 4.启动 Hugo 博客服务
@@ -97,5 +99,5 @@ wsl GUI GNOME
 
 # 资料参考：
 
-1.[如何用hugo 搭建博客](https://zhuanlan.zhihu.com/p/126298572)
+1.[Hugo + Stack + GitHub Pages 博客搭建指南](https://akuamt.github.io/p/hugo--stack--github-pages-%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/)
 

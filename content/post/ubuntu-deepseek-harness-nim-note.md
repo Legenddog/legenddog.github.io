@@ -1,13 +1,13 @@
 ---
-title: "DJI Mini 3 Pro 飞行技巧与拍摄全攻略"
-description: "DJI Mini 3 Pro 飞行技巧与拍摄全攻略"
+title: "dsh接入nim免费模型"
+description: "在 Ubuntu 上安装 DeepSeek Harness 并接入 NVIDIA NIM 免费模型"
 date: 2026-09-06
 lastmod: 
 weight: 3
 categories:
-    - 无人机
+    - AI
 tags:
-    - 无人机
+    - AI
 
 ---
 

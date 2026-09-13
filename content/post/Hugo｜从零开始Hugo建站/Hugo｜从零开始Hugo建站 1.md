@@ -1,5 +1,5 @@
 ---
-title: 从零开始Hugo建站（一）
+title: Hugo｜从零开始Hugo建站 1
 description: 零基础学习git
 date: 2023-06-15
 categories:
