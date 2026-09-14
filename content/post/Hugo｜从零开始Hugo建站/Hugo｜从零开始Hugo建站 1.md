@@ -9,6 +9,7 @@ categories:
 ---
 
 
+
 # Hugo｜从零开始Hugo建站 1
 
 ## 写在前面
@@ -110,8 +111,9 @@ git clone https://github.com/project/repo.git
 - **git pull**：把远程仓库的最新代码拉到本地合并
 
 ```bash
-git push origin master   # 把本地代码推送到远程 master 分支
-git pull origin master   # 把远程最新代码更新到本地
+git push origin main   # 把本地代码推送到远程 main 分支
+git pull origin main   # 把远程最新代码更新到本地
+#这一变化始于2020年10月，GitHub为了推动更具包容性的术语，将新仓库的默认分支名称从传统的 master 更改为 main‌
 ```
 
 
@@ -124,7 +126,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://gitee.com/Legenddog/legenddog.git
+git remote add origin https://github.com/你的名字/你的仓库名.git
 git push -u origin main
 ```
 

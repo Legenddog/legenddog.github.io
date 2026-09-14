@@ -5,7 +5,7 @@
     grid = true
 
 [footer]
-    since = 2020
+    since = 2021
     launchDate = "2021-02-16"
 
 [widgets]
@@ -22,12 +22,12 @@
     default = "auto"
 
 [comments]
-    enabled  = false
+    enabled  = true
     provider = "waline"
     
 [comments.waline]
     # IMPORTANT: Replace this with your own Waline server URL!
-    serverURL    = "https://waline-demo.liuhouliang.com/"
+    serverURL    = "https://comment.legenddog.uno/"
     pageview     = true
     emoji        = ["https://unpkg.com/@waline/emojis@1.0.1/weibo"]
     requiredMeta = ["name"]
