@@ -4,7 +4,7 @@ description: hugo网页配置
 date: 2023-06-15
 categories:
     - hugo
-    
+image: cover.jpg
 ---
 
 

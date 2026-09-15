@@ -55,7 +55,7 @@ about_site:
 ## ⏳ 建站历程
 
 {{< timeline >}}
-    {{< timeline-item date="2020-02" >}}
+    {{< timeline-item date="2021-02" >}}
     使用 Hugo 和 Stack 主题搭建了这个博客。
     {{< /timeline-item >}}
     

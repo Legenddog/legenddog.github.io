@@ -5,6 +5,7 @@ date: 2023-06-15
 categories:
     - hugo
     - git
+image: cover.jpg
     
 ---
 
