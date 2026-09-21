@@ -1,6 +1,6 @@
 ---
 title: Hugo｜从零开始Hugo建站 2
-description: hugo网页配置
+description: hugo主题博客的网页配置和html文件生成
 date: 2023-06-15
 categories:
     - hugo
@@ -10,9 +10,12 @@ image: cover.jpg
 
 # Hugo｜从零开始Hugo建站 2
 
-本篇是第二部分，主要讲如何用 Hugo ，从 0 到 1 完成一个静态博客：通过简单配置自定义博客界面，并把站点免费部署到 GitHub Pages。
 
-下一篇会讲 Hugo 的完整配置以及如何使用 GitHub Action 实现自动推送。
+>[!NOTE] 写在前面
+>
+>本篇是第二部分，主要讲如何用 Hugo ，从 0 到 1 完成一个静态博客：通过简单配置自定义博客界面，并把站点免费部署到 GitHub Pages。
+>
+>下一篇会讲 Hugo 的完整配置以及如何使用 GitHub Action 实现自动推送。
 
 ---
 

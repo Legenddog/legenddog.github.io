@@ -1,6 +1,6 @@
 ---
 title: Hugo｜从零开始Hugo建站 3
-description: hugo网页配置
+description: hugo博客在github上的自动化流程
 date: 2023-06-15
 categories:
     - hugo

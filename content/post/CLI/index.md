@@ -1,6 +1,6 @@
 ---
-title: "Command Line Interface"
-description: "cli"
+title: "命令行界面"
+description: "Command Line Interface"
 date: 2021-04-09
 lastmod: 
 weight: 3
@@ -122,7 +122,8 @@ D:\>netstat -ano | findstr 8000
 
 ## 三、Bash Shell 命令（Linux Shell = Bash）
 
-> 说明：Bash 是 Linux 系统默认的 Shell 环境，常用命令与 Windows CMD 有所差异，但核心逻辑相通。具体命令可参考附录中的在线资源。
+> [!TIP]
+> Bash 是 Linux 系统默认的 Shell 环境，常用命令与 Windows CMD 有所差异，但核心逻辑相通。具体命令可参考附录中的在线资源。
 
 ---
 
