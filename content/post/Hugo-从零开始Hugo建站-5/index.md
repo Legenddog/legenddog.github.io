@@ -1,7 +1,7 @@
 ---
 title: Hugo｜从零开始Hugo建站 5
 description: markdown文章写作
-date: 2026-09-21
+date: 2026-09-16
 categories:
     - hugo
 tags:

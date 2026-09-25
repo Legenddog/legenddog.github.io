@@ -1,7 +1,7 @@
 ---
 title: "iStoreOS 物理机安装"
 description: "openwrt"
-date: 2026-09-06
+date: 2023-09-06
 categories:
     - 软路由
 tags:
