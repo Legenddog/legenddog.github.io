@@ -1,11 +1,9 @@
 ---
-title: "命令行界面"
-description: "Command Line Interface"
+title: 命令行界面
+description: Command Line Interface
 date: 2021-04-09
-lastmod: 
-weight: 3
 categories:
-    - shell
+    - 命令行
 tags:
     - shell
 

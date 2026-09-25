@@ -1,8 +1,10 @@
 ---
 title: Hugo｜从零开始Hugo建站 2
 description: hugo主题博客的网页配置和html文件生成
-date: 2023-06-15
+date: 2021-03-01
 categories:
+    - hugo
+tags:
     - hugo
 image: cover.jpg
 ---

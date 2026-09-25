@@ -1,12 +1,14 @@
 ---
 title: Hugo｜从零开始Hugo建站 1
 description: 零基础学习git
-date: 2023-06-15
+date: 2021-02-28
 categories:
+    - hugo
+tags:
     - hugo
     - git
 image: cover.jpg
-    
+
 ---
 
 

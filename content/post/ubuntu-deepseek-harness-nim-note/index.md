@@ -2,8 +2,6 @@
 title: "dsh接入nim免费模型"
 description: "在 Ubuntu 上安装 DeepSeek Harness 并接入 NVIDIA NIM 免费模型"
 date: 2026-09-06
-lastmod: 
-weight: 3
 categories:
     - AI
 tags:

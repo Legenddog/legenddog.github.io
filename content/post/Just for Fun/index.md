@@ -5,7 +5,7 @@ date: 2023-08-23
 lastmod: 2026-09-18
 weight: 3
 categories:
-    - joke
+    - 只是为了好玩
 tags:
     - joke
 

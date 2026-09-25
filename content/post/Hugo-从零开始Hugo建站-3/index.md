@@ -1,8 +1,10 @@
 ---
 title: Hugo｜从零开始Hugo建站 3
 description: hugo博客在github上的自动化流程
-date: 2023-06-15
+date: 2021-03-02
 categories:
+    - hugo
+tags:
     - hugo
 image: cover.jpg
 ---

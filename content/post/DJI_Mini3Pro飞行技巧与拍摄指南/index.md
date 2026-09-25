@@ -7,7 +7,7 @@ weight: 3
 categories:
     - 无人机
 tags:
-    - 无人机
+    - Dji UAV
 
 ---
 

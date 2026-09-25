@@ -4,6 +4,8 @@ description: markdown文章写作
 date: 2026-09-21
 categories:
     - hugo
+tags:
+    - hugo
 image: cover.jpg  
 ---
 

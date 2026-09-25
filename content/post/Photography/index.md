@@ -5,7 +5,7 @@ date: 2023-06-12
 lastmod: 2026-09-21
 weight: 3
 categories:
-    - photography
+    - 摄影
 tags:
     - photography
 

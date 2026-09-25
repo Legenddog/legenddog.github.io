@@ -1,7 +1,10 @@
 ---
 title: Hugo｜从零开始Hugo建站 4
 description: hugo博客的评论区配置
+date: 2026-09-15
 categories:
+    - hugo
+tags:
     - hugo
 image: cover.jpg  
 ---
