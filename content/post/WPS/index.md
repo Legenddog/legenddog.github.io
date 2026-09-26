@@ -1,6 +1,6 @@
 ---
-title: "wps公式运用"
-description: 
+title: wps公式运用
+description: wps办公中一些函数和宏的运用
 date: 2023-06-13
 categories:
     - wps
@@ -10,8 +10,7 @@ tags:
 ---
 
 
-
-## WPS函数运用
+## WPS函数
 
 1、SUM、ROUND
    

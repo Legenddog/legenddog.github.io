@@ -1,6 +1,6 @@
 ---
-title: "iStoreOS 物理机安装"
-description: "openwrt"
+title: iStoreOS 物理机安装（从硬路由到软路由以及OpenWrt 生态漫谈）
+description: openwrt
 date: 2023-09-06
 categories:
     - 软路由
@@ -9,8 +9,6 @@ tags:
 
 ---
 
-
-# iStoreOS 物理机安装（从硬路由到软路由以及OpenWrt 生态漫谈）
 
 >[!IMPORTANT]一句话导读：
 > 硬路由图的是省心稳定，软路由玩的是无限可能。本文先聊聊两种路由的历史与分野，再把重点放在 **iStoreOS 的物理机安装** 上，最后顺带聊聊它背后的 OpenWrt 家族。

@@ -1,19 +1,13 @@
 ---
-title: "DJI Mini 3 Pro 飞行技巧与拍摄全攻略"
-description: "DJI Mini 3 Pro 飞行技巧与拍摄全攻略"
-date: 2026-09-06
-lastmod: 
-weight: 3
+title: DJI Mini 3 Pro 飞行技巧与拍摄全攻略
+description: 简单讲讲我和我的无人机，请各位看官看个乐
+date: 2023-11-13
 categories:
     - 无人机
 tags:
     - Dji UAV
 
 ---
-
-
-
-# DJI Mini 3 Pro 飞行技巧与拍摄全攻略
 
 > [!IMPORTANT]
 > 记录我用大疆 Mini 3 Pro 这几年来的飞行与拍摄经验，从起飞前的准备工作，到运镜构图、智能拍摄模式、滤镜与后期，一份给同样入坑 mini 的朋友的实操笔记。

@@ -9,13 +9,9 @@ tags:
 image: cover.jpg  
 ---
 
-
-
-
-# Hugo｜从零开始 Hugo 建站 5
-
-> [!NOTE] 开始写博客：Markdown 的学习运用
->学习如何创建第一篇博客文章，掌握 Markdown 基本语法，以及如何使用hugo主题中的特殊用例
+>[!NOTE] 写在前面
+>
+>本篇是第五部分，主要学习如何创建第一篇博客文章，掌握 Markdown 基本语法，以及如何使用hugo主题中的特殊用例。
 
 ## 第一节：markdown基础语法
 

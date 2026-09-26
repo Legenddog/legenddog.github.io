@@ -33,8 +33,8 @@ about_me:
     text: "编程 / 阅读 / 旅行"
     icon: "bike"
   - label: "邮箱"
-    text: "your@email.com"
-    link: "mailto:your@email.com"
+    text: "790015059@qq.com"
+    link: "mailto:790015059@qq.com"
     icon: "mail"
 
 about_site:

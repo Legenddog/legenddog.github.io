@@ -1,6 +1,6 @@
 ---
-title: "人生就是图一乐"
-description: "just for fun"
+title: 人生就是图一乐
+description: just for fun
 date: 2023-08-23
 categories:
     - 只是为了好玩
@@ -9,9 +9,7 @@ tags:
 
 ---
 
-
-# Just for Fun（找乐子）
-> [!NOTE] 碎碎念时间
+> [!NOTE] 找乐子
 > 2023.8.23灵感来源于刷到的视频中介绍的 Linus 自传书籍《Just for Fun》。活着就是图一乐，绝不委屈自己。
 
 ---

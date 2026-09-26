@@ -9,8 +9,11 @@ tags:
 image: cover.jpg
 ---
 
-
-# Hugo｜从零开始 Hugo 建站 3
+>[!NOTE] 写在前面
+>
+>本篇是第三部分，主要讲 Hugo 的完整配置以及如何使用 GitHub Action 实现自动推送。
+>
+>下一篇会讲如何搭建hugo个人博客的评论区
 
 ## Hugo 站点文件配置
 

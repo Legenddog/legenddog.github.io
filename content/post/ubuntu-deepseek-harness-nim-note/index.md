@@ -1,6 +1,6 @@
 ---
-title: "dsh接入nim免费模型"
-description: "在 Ubuntu 上安装 DeepSeek Harness 并接入 NVIDIA NIM 免费模型"
+title: 在 Ubuntu 上安装 DeepSeek Harness 并接入 NVIDIA NIM 免费模型
+description: 简单记录一下自己初次折腾dsh
 date: 2026-09-06
 categories:
     - AI
@@ -9,10 +9,7 @@ tags:
 
 ---
 
-
-
-# 在 Ubuntu 上安装 DeepSeek Harness 并接入 NVIDIA NIM 免费模型
-
+> [!CAUTION]
 > 记录一次实操经验：在 Ubuntu 上把 DeepSeek Harness 跑起来，再用 NVIDIA NIM 的免费 DeepSeek 模型当后端，白嫖一把推理算力。文中涉及的版本、命令均以官方仓库与官方文档为准。
 
 ---
